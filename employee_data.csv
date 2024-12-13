@@ -1,0 +1,501 @@
+EmployeeID,Name,Department,Salary,JoiningDate,Status
+7970,,Operations,44168.0,2023-04-16,Terminated
+1752,Shannon Franco,HR,80140.0,2016-08-22,Terminated
+8478,,HR,144316.0,2023-11-04,Terminated
+5157,Barbara Alvarez,Operations,35075.0,2023-04-22,
+1816,Adam Cobb,Sales,142537.0,2016-05-12,Active
+7766,Tyrone Miller,Engineering,,2023-08-21,Resigned
+6247,Allison Salas,Engineering,59154.0,2023-06-14,On Leave
+5968,Daniel Rodriguez,Engineering,56158.0,2016-03-29,Terminated
+3344,Scott Coleman,Operations,137031.0,2018-08-04,On Leave
+1255,,HR,90332.0,2015-04-23,Resigned
+4786,Loretta Espinoza,Operations,75830.0,2014-12-24,Resigned
+9068,,Operations,70001.0,2021-05-18,Terminated
+4245,Jamie Aguilar,Finance,137549.0,2015-06-26,Resigned
+1409,Mrs. Bonnie Gutierrez MD,HR,134247.0,2020-11-09,Terminated
+7189,Andrew Zimmerman,Finance,144206.0,2015-09-17,Resigned
+6554,George Jenkins,Marketing,59831.0,2015-01-13,Resigned
+3912,Terri Barnett,HR,59219.0,2018-04-09,
+1939,Michael Fernandez,HR,33101.0,2020-01-13,
+7627,Elizabeth Owens,HR,116511.0,2023-11-03,Resigned
+9152,Whitney Curtis,Engineering,55313.0,2021-10-12,Resigned
+9143,Amanda Johnston,Engineering,82227.0,2016-10-03,On Leave
+7050,Sarah Dunn,Finance,73025.0,2016-05-20,Active
+5228,,Finance,66517.0,2020-10-21,On Leave
+9895,Randy Barrera,,143292.0,2015-04-01,Resigned
+9337,Lawrence Curtis,Finance,39099.0,2016-12-14,Active
+6853,Steve Martin,Engineering,131361.0,2022-08-12,On Leave
+1497,Richard Rios,Operations,66585.0,2020-05-11,On Leave
+1613,Jason Watts,Operations,,2015-08-13,On Leave
+6906,Sandra Clark,Operations,114080.0,2023-06-22,
+2321,Cody Murray,Finance,,2019-09-01,Resigned
+5915,,,82386.0,2016-04-01,Resigned
+5531,Audrey Moody,Engineering,119065.0,2015-12-04,Active
+3536,Nathan Dixon,Marketing,140580.0,2015-05-31,On Leave
+4500,,Finance,100282.0,2016-04-27,
+9528,Teresa Michael,Sales,73404.0,2015-02-10,On Leave
+4155,Sabrina Frey,HR,33617.0,,Resigned
+7479,Sharon Sullivan,Engineering,45118.0,2016-12-11,On Leave
+6020,Andrew Eaton,Operations,144955.0,2019-04-05,Resigned
+8043,Elizabeth Petersen,Marketing,64237.0,2018-09-15,Active
+5590,Elizabeth Clark,Sales,53405.0,2021-06-04,
+9580,Samantha Williams,Sales,106099.0,2017-02-20,
+6761,Elaine Stevenson,Engineering,64795.0,,Active
+7183,Jerry Castro,Engineering,35014.0,,Active
+8502,Richard Morris,Sales,44208.0,2015-07-11,Resigned
+6938,Thomas Kelly,HR,108193.0,2021-12-26,On Leave
+3444,Brooke Mcdonald,HR,86959.0,2018-07-31,Terminated
+8100,Joan Francis,Marketing,75309.0,2021-02-02,Active
+7181,Patricia Thompson,HR,,,
+5186,Chase Mcdonald,Sales,133078.0,2024-02-11,Resigned
+5224,Brandy Martin,Sales,,2023-10-25,Terminated
+2046,Kristy Thomas,Finance,87199.0,2023-01-15,Terminated
+4764,Lynn Craig,Sales,,2019-02-14,Terminated
+9758,Erin Erickson,HR,97033.0,2022-05-07,Resigned
+5752,Gary Bush,Operations,45157.0,2022-02-02,On Leave
+2257,Sarah Russo,Marketing,80488.0,2016-09-16,Active
+1130,Donald Sutton,Finance,147899.0,2015-05-21,
+3625,Jeffrey Mosley,HR,105574.0,,
+9752,Melinda Blair,Marketing,,2020-04-24,Active
+4778,Kyle Roth,HR,63386.0,2022-10-19,Active
+1930,Anthony Hughes,Finance,35817.0,2024-04-22,Terminated
+1463,Mrs. Stacy Moore DVM,Sales,122901.0,2021-09-19,Terminated
+9451,Samantha Hansen,Operations,87154.0,2022-11-16,Active
+1811,William Leach,Finance,30221.0,2021-02-11,Active
+7082,,Sales,98146.0,2024-01-21,On Leave
+9167,Melanie Armstrong,Finance,135710.0,2014-09-22,On Leave
+4065,Mia Brown,Engineering,100575.0,,Resigned
+7133,George Hays,,120027.0,2015-02-23,Active
+3494,Todd Hayes,,124297.0,2022-03-19,On Leave
+4109,,HR,127248.0,,Active
+2487,Judy Johnson,Operations,126605.0,2016-03-16,Terminated
+9569,,Engineering,117900.0,,On Leave
+6289,Jon Peck,Sales,55825.0,2022-11-06,Terminated
+3180,Gabriel Bowen,HR,77739.0,2022-10-07,Terminated
+4879,,Engineering,86531.0,2018-08-10,Terminated
+6630,Rachel Morris,HR,39171.0,2016-02-27,Resigned
+6032,James Clark,Marketing,117062.0,2016-08-10,Terminated
+5960,,,,2024-06-27,Resigned
+9502,,Marketing,111678.0,,Active
+4366,Angela Fernandez,Operations,,2015-01-22,Active
+8739,Heather Cox,Sales,116951.0,2022-06-28,On Leave
+5636,Amanda Baker,Engineering,141151.0,2020-07-04,
+9501,Amy Brown,Sales,46334.0,2021-10-18,Resigned
+3491,Anthony Jensen,Sales,124339.0,,
+5983,Marc Kelley,Engineering,147970.0,2015-11-18,On Leave
+8601,,Operations,69363.0,2017-03-09,On Leave
+1925,Mark Huber,Sales,96469.0,2022-12-11,On Leave
+7332,Hannah Waller,Operations,70538.0,2022-10-08,Active
+5425,Jeffrey Hickman,Operations,117410.0,2024-02-12,On Leave
+2038,Angela Wilson,,83528.0,2017-01-11,Active
+3851,Melissa Krueger,HR,72753.0,2022-06-08,Terminated
+3669,Brenda York,Finance,,,Terminated
+3257,Joshua Smith,Operations,121384.0,2017-12-08,Terminated
+8512,Lori Vega,Engineering,68752.0,2021-09-23,Resigned
+9298,,Finance,102667.0,2023-12-09,
+8028,Jonathan Garcia,Operations,46683.0,2022-05-28,On Leave
+6419,George Strickland,Engineering,55144.0,2020-09-09,
+6127,Megan Hubbard,Engineering,85108.0,2018-11-08,Resigned
+4117,John Simmons,Marketing,117153.0,2022-12-28,Terminated
+5254,Sarah Santos,Marketing,79695.0,2017-01-26,Active
+3495,Shaun Cook,Sales,118777.0,2015-07-07,On Leave
+4651,Ricky Daniel,Operations,128059.0,2017-09-15,
+6226,,Operations,,2015-12-28,On Leave
+4580,Joseph Prince,Finance,52810.0,2024-08-03,Terminated
+7619,Anthony Martinez,Engineering,110676.0,2016-04-23,Active
+6251,,Operations,104593.0,2021-04-26,On Leave
+9083,Colin Jimenez,Sales,69446.0,2021-03-02,On Leave
+4617,Sarah Barr,HR,83225.0,2023-08-01,Resigned
+7705,Sarah Powers,,101819.0,2017-01-10,On Leave
+1868,Bill Rodriguez,HR,139278.0,,Active
+2918,Randy Watson,Sales,30053.0,2024-01-28,Active
+1589,Joseph Miller,Marketing,69829.0,2024-04-23,On Leave
+6951,Katrina Sims,Sales,67606.0,,Resigned
+9299,Jill Hoffman,HR,57549.0,2018-01-20,
+3727,Michelle Johnston,Engineering,86346.0,2014-11-27,Terminated
+5043,Miguel Reed,Finance,132990.0,2020-07-19,Active
+7549,Mark Reese,Operations,,2023-01-23,Terminated
+9831,Stacey Weber,Sales,109516.0,2021-12-19,Resigned
+5259,David Camacho,Engineering,115813.0,,Terminated
+6868,Barbara Saunders,Operations,72237.0,2020-04-21,Resigned
+9767,Todd Ponce,Marketing,90946.0,2023-11-24,Terminated
+4742,Michelle Smith,,87905.0,2023-04-25,Terminated
+8364,Sarah Grant,Operations,87954.0,2016-07-18,Active
+7243,Alex Roach,Marketing,118555.0,2015-07-14,Active
+4147,Mr. Michael James,,58010.0,2016-05-04,Terminated
+8092,,,97000.0,,Resigned
+9884,Nicole Brown,Engineering,92021.0,2017-11-27,Resigned
+1466,Ruben Ortiz,Engineering,134036.0,2016-11-09,Active
+4625,Julian Jackson,,148119.0,,Active
+2096,Catherine Evans,Finance,134336.0,2018-03-15,On Leave
+9943,Eric Hart,Finance,126463.0,2024-07-01,Active
+2404,David Harvey,,52241.0,2019-06-05,Resigned
+1956,Martha Douglas,Operations,116356.0,2022-04-22,Active
+6578,Taylor Cunningham,Finance,41114.0,2015-03-07,On Leave
+2072,Samantha Reynolds,Marketing,67196.0,2024-08-08,
+3863,David Henderson,Finance,97561.0,2015-04-06,Terminated
+7543,Kyle Thomas,Marketing,117012.0,2020-05-31,Resigned
+4101,Ryan Brown,Sales,112960.0,2022-02-06,On Leave
+3215,Mark Johnson,Engineering,111167.0,2016-05-19,Terminated
+9163,Marcus Webster,Engineering,73933.0,2019-03-14,Terminated
+3314,Ann Jackson,Finance,42240.0,2021-02-07,Active
+4548,Erin Taylor,Marketing,137272.0,2016-02-12,Terminated
+3702,Madison Roberson,HR,128453.0,2023-03-18,Resigned
+3447,Sarah Martinez,HR,60784.0,2017-08-14,Terminated
+7974,Justin Clark,HR,118184.0,2024-04-23,Resigned
+7893,Juan Baird,Engineering,70687.0,2022-02-11,Resigned
+6382,Christy Taylor,Operations,59444.0,2015-01-16,Active
+1832,Richard Mcmahon,Engineering,135717.0,2019-11-26,On Leave
+9545,Richard Mcclain,Operations,56100.0,2022-07-07,
+4032,Mrs. Kimberly Taylor DDS,Marketing,49313.0,,Terminated
+4854,Douglas Castillo,Finance,33201.0,2019-12-30,Terminated
+6109,Paul Thompson,HR,36057.0,2016-09-10,Resigned
+3364,Mary Jones,Marketing,62092.0,2021-03-29,Terminated
+7474,Kenneth Orozco,Marketing,92277.0,2018-12-19,Active
+8724,Kari Wolfe,Finance,110120.0,2018-08-29,Terminated
+7412,Stuart Webb,,141376.0,2017-02-04,Active
+4775,,Finance,130727.0,2019-07-09,Resigned
+6055,Ronald Cooley,Sales,39545.0,2016-10-16,Resigned
+4330,Kyle Perez,Finance,89692.0,2017-05-21,Resigned
+8273,Christopher Robinson MD,HR,84321.0,2019-10-04,Active
+5337,Mason Lewis,Operations,,2021-07-10,Terminated
+3148,Ryan Romero,Operations,112544.0,2018-06-01,Active
+7593,Jacob Martinez,HR,105454.0,2016-05-17,Terminated
+4027,Nicole Love,Operations,55485.0,2019-04-20,Terminated
+8994,Katherine James,Finance,124155.0,2024-08-07,Active
+9188,Courtney Sparks PhD,Sales,121272.0,,On Leave
+4336,Tanner Wong,Operations,80328.0,2019-01-23,Resigned
+1436,Daniel Jimenez,Sales,94799.0,,Terminated
+1801,Catherine Anderson,HR,82383.0,2018-11-17,Terminated
+1821,Paul Edwards,Sales,61979.0,2023-06-28,Active
+1506,Charles Maldonado,Marketing,49342.0,2023-08-24,On Leave
+2169,Dr. Carol Allen,Engineering,115990.0,2023-01-23,Resigned
+4403,Amanda Martin,Marketing,120128.0,2016-09-19,On Leave
+6297,Brianna Johnson,HR,30726.0,2020-08-03,Resigned
+4746,,Operations,147002.0,2021-06-14,Terminated
+1306,Todd Warren,,128430.0,2018-08-30,Terminated
+9619,Karen Garcia,Sales,142779.0,2016-09-26,Active
+9932,Douglas Watkins,Finance,130931.0,2015-05-29,
+8574,William Hess MD,Engineering,146059.0,2023-03-23,On Leave
+5808,Barbara Brewer,Finance,43970.0,2022-10-28,On Leave
+6442,Carolyn Ochoa,,132029.0,,Resigned
+4956,Charlene Gonzalez,Operations,,2022-05-16,Active
+1266,Tyler Reeves,Sales,58683.0,,Terminated
+8320,Jennifer Fuentes,Operations,,2017-05-05,Active
+6800,Debra Zamora,Finance,135396.0,2024-01-13,On Leave
+2682,David Snow,Finance,,2023-03-15,Active
+4214,,Engineering,97889.0,2017-01-03,Terminated
+2937,Brian Gonzalez,Engineering,90889.0,2023-10-07,Active
+9315,Steven Yu,Sales,,2024-08-15,On Leave
+2739,Shirley Lopez,,103060.0,2015-12-29,
+8418,Kenneth Ryan,Finance,62662.0,2016-01-30,Resigned
+4372,Stanley Pace,Finance,141193.0,2019-10-07,Resigned
+3504,Sarah Preston,HR,45906.0,2018-05-06,Terminated
+3722,Kenneth Preston,Finance,89829.0,2015-10-05,Terminated
+7325,Mitchell Ferguson,Sales,47477.0,2023-06-10,
+6828,,,,2015-02-25,On Leave
+9377,Frank Fleming,HR,90901.0,2015-06-09,Terminated
+3645,Morgan Hoffman,HR,117500.0,2018-06-04,
+2115,Kimberly Mitchell,Sales,99616.0,2021-01-22,Terminated
+9851,Robin Singh,,103259.0,2021-04-17,On Leave
+9194,Edward Murillo,Engineering,108047.0,2017-05-30,On Leave
+5638,Daniel Welch,HR,71588.0,2024-08-07,Active
+3424,Angela Alvarez,Engineering,128992.0,2019-12-30,Resigned
+3643,Lori Barrett,Finance,,2023-06-06,Terminated
+6228,Dr. Chelsea Hudson,HR,88008.0,2023-03-09,Resigned
+6773,Robert Pineda,HR,110301.0,2023-09-19,Resigned
+1042,James Hebert,Operations,136824.0,2017-03-10,Active
+8453,Joanne Anderson,,,2015-07-04,Resigned
+1579,Daniel Vincent,HR,146918.0,2019-02-09,Resigned
+4575,Vincent Rivera,Finance,,2015-02-04,Terminated
+7090,,Engineering,85933.0,2022-08-30,On Leave
+4161,Thomas Carey,Engineering,138864.0,2019-03-03,Terminated
+1196,,Operations,148863.0,2018-01-20,Terminated
+3203,Cassidy Orozco,Marketing,101810.0,,Resigned
+8794,Johnathan White,Finance,88446.0,2016-05-24,Resigned
+5050,Brittney Crane,Engineering,147598.0,2022-04-02,Terminated
+3947,Helen Oliver,Sales,50861.0,2019-11-19,Terminated
+4474,Heather Olsen,Finance,,2017-01-08,Resigned
+6599,Jordan Marshall,Finance,142917.0,2022-01-02,On Leave
+5409,Michael Conley,Marketing,,2018-04-01,
+3506,Tony Davenport,Engineering,88991.0,2015-05-20,Terminated
+9462,Brett Fox,Finance,63972.0,2022-08-09,On Leave
+4073,Nicole Haley,Operations,128536.0,2024-08-14,Terminated
+2323,Tyler Brown,Operations,62406.0,2022-07-21,Active
+5773,Crystal Rogers,Engineering,140082.0,2017-02-10,Resigned
+9915,Danielle Miller,Operations,113579.0,,Terminated
+4840,Chad Brennan,Sales,66347.0,2022-10-18,Terminated
+4396,Megan Boyd,Marketing,,2014-10-09,Terminated
+1776,Beverly Wood,Operations,131931.0,2017-10-18,On Leave
+8758,James Thompson,Operations,98327.0,2024-01-05,Terminated
+5735,Brett Griffin,Sales,93517.0,2023-05-24,Active
+2332,Michael Ryan,Marketing,112149.0,2021-08-04,On Leave
+6739,Deborah Pierce,,61358.0,2023-08-26,Resigned
+4121,Paige Cross,Marketing,65992.0,2024-06-15,
+1457,Gary Jones,HR,87654.0,2019-07-28,Terminated
+3026,William Hoffman,Engineering,40155.0,2015-12-31,Active
+6716,Shawn Santana,Engineering,123525.0,2021-10-08,Terminated
+9075,Teresa Gibson,HR,67450.0,2022-11-08,Active
+2036,April Lane MD,,60735.0,2024-09-02,On Leave
+5623,Peter Tran,HR,,2019-12-06,Terminated
+4954,Elizabeth Johnson,Finance,74020.0,2016-02-18,
+9744,Patrick Swanson,Finance,71904.0,2015-01-31,Active
+2099,Mark Hall,Engineering,147050.0,2020-01-18,Terminated
+1963,Jonathan Reed,Finance,100798.0,2016-02-25,Resigned
+5592,Daniel Hall,,40561.0,,Resigned
+7092,Ashley Brown,HR,48136.0,2018-09-23,Terminated
+5033,David King,HR,49769.0,2017-03-01,
+1920,Kristen Williams,Operations,60311.0,2020-05-01,Resigned
+2261,Andrea Owen,Operations,,2017-05-05,Terminated
+9916,Nicole Sims,HR,,2023-02-23,Resigned
+7495,Karen Carter,Engineering,50028.0,2023-06-25,Terminated
+9302,Katelyn Anderson,HR,122591.0,2021-11-28,Active
+6992,Cassandra King,HR,58043.0,2018-08-17,Active
+3560,Bonnie Smith,Sales,38418.0,2019-07-24,On Leave
+7568,David Caldwell,HR,84377.0,2019-08-03,Resigned
+1983,Jennifer Zavala,,83424.0,2020-07-15,On Leave
+7699,Crystal Tate,Engineering,73369.0,2020-08-05,Active
+8351,Joel Hudson,Sales,101121.0,2021-07-07,Terminated
+2363,Cynthia Ward,Operations,,2022-11-16,Active
+4015,Michelle Jenkins,Marketing,84496.0,2017-02-01,Active
+5420,David Griffin,Engineering,,2015-05-21,
+3435,Shannon Duncan,Finance,57110.0,2017-01-30,On Leave
+2827,Joel Brooks,Engineering,139168.0,2019-03-20,Resigned
+7896,George Young,,85069.0,2024-06-03,Active
+5116,Danielle Frost,Finance,81049.0,2017-11-15,Active
+2319,Kathleen Burke,Finance,148598.0,2020-02-05,Resigned
+3481,Angela Adams,,130898.0,2018-10-07,Active
+1228,Angela Lynch,Engineering,106556.0,2018-08-04,Resigned
+1386,Todd Padilla,Marketing,,2019-01-21,Resigned
+9839,Adam Copeland,Marketing,32560.0,2018-08-01,Resigned
+2798,Amy Ramos,Engineering,142293.0,2016-07-25,Terminated
+3112,Michael Copeland,HR,145429.0,2022-06-09,On Leave
+6024,Brian Thompson,HR,130348.0,2020-07-25,On Leave
+4299,Justin Ferrell,Operations,105456.0,2018-07-07,
+4961,Sean Underwood,Marketing,,2022-08-29,On Leave
+3366,Theresa Smith,Sales,92518.0,,On Leave
+4491,Danielle Vasquez,Marketing,,2024-05-14,On Leave
+2465,Dr. Sandy Reid,Marketing,,2015-03-20,Active
+8856,Kyle Cohen,Marketing,69139.0,2016-11-11,Terminated
+8847,Ricardo Terrell,Operations,128759.0,2016-02-16,On Leave
+8544,Krista Green,HR,81116.0,2015-05-16,
+9372,,Operations,141863.0,2021-12-26,On Leave
+7731,Troy Hayden,Operations,146869.0,2024-07-30,On Leave
+8870,Eric Rush,Operations,139540.0,2020-01-18,Terminated
+8013,Elizabeth Franklin,HR,84921.0,2023-04-21,Resigned
+5167,Jessica Robles,HR,100545.0,2017-11-09,Terminated
+3538,Cameron Sims,Marketing,127978.0,2024-08-07,
+5407,Stacey Rivera,Operations,126289.0,2017-03-03,Active
+1182,Maureen Trujillo,Sales,101582.0,2015-02-20,Terminated
+3575,Lisa Cooper,HR,134840.0,2021-07-02,Resigned
+2948,Samantha Martinez,Engineering,109069.0,2015-08-14,On Leave
+5273,Javier Miller,Engineering,147677.0,2020-03-27,Active
+8294,Angela Greer,Engineering,58906.0,2024-03-25,Terminated
+8224,Albert Melendez,Finance,93993.0,2020-10-30,Resigned
+7976,Lisa Hernandez,Marketing,58760.0,2023-01-06,Resigned
+8068,Adam Bishop,,65774.0,2023-12-27,Terminated
+9023,Nicole Rice,Marketing,87125.0,2018-03-04,Resigned
+8459,Mark Newton,,93654.0,2016-12-20,Terminated
+4898,Allen Stevens,Sales,33804.0,2024-08-15,
+1354,Marc Crawford,Marketing,80968.0,,On Leave
+6711,James Drake,Engineering,74057.0,2020-01-14,Terminated
+3970,Jared Washington MD,HR,117670.0,2021-03-15,Terminated
+3705,Elizabeth Johnson,Marketing,119016.0,2017-07-12,Active
+1933,Brandy Melendez,Finance,134614.0,2024-02-09,On Leave
+8359,Jacqueline Ortega,HR,82994.0,2021-09-09,Terminated
+7872,Savannah Mann,HR,124919.0,2021-01-28,Resigned
+4427,Kimberly Keller DVM,Operations,,2021-12-03,Resigned
+4441,Michele Olson,,140166.0,2021-09-23,
+5855,Samantha James,HR,91261.0,2018-07-03,Active
+4055,Daniel Mosley,HR,46728.0,,Terminated
+6807,Melissa Hampton,Engineering,111560.0,2023-03-31,Resigned
+5245,Jillian Atkins,Engineering,100008.0,2017-07-20,Active
+4566,Kristen Jones,Marketing,33534.0,2023-01-21,Active
+2130,Patty Howard,,148872.0,2014-10-10,Terminated
+6140,Kyle Bradley,Marketing,81645.0,2024-07-21,Resigned
+2605,Kimberly Juarez,Engineering,107580.0,,On Leave
+5700,Derrick Perkins,Marketing,103975.0,2015-10-18,Resigned
+6616,,HR,116900.0,2015-05-01,On Leave
+5765,Anna Perry,Engineering,33552.0,2024-07-18,
+5868,Stephanie Fleming,Marketing,41003.0,2022-03-27,Resigned
+7666,Sabrina Frazier,,114246.0,2020-10-27,On Leave
+5873,William Perez,Marketing,86179.0,2024-08-01,Active
+4412,Christopher Freeman,Sales,47786.0,2020-11-16,Active
+6282,John Welch,Marketing,,2020-04-14,Resigned
+9431,Bryan Lowe,Sales,90515.0,2021-09-09,Terminated
+5141,Ashley Donaldson,Marketing,53819.0,,Active
+7759,Melissa Jordan,Operations,36590.0,2018-08-17,Resigned
+9551,Sean Graham,Operations,64099.0,2020-07-05,On Leave
+8900,Jennifer Johnson,Finance,79689.0,2018-08-03,Active
+4381,Tiffany Andrews,,72906.0,2023-04-12,Resigned
+5754,Kristine Thomas,Operations,57742.0,2023-07-17,Resigned
+5818,Amber Weaver,Marketing,89598.0,2020-07-18,Terminated
+8857,Thomas Lopez,Engineering,72840.0,2021-07-27,On Leave
+8016,Daniel Bentley,Engineering,74236.0,2015-01-07,On Leave
+6030,,Sales,129775.0,2020-07-15,On Leave
+5964,,Engineering,145296.0,2014-11-27,Resigned
+7563,Tina Price,HR,79692.0,2022-12-14,Resigned
+9660,,Finance,,2019-07-10,On Leave
+4440,Sally Smith,Operations,128567.0,2022-09-15,
+7057,Jeremy Nelson,Finance,139041.0,2017-10-12,Terminated
+9065,Julie Nelson,HR,,2016-03-29,Resigned
+7856,Paige Wilson,Operations,63065.0,2022-04-07,Resigned
+8119,Gerald Hogan,Sales,139433.0,,
+6510,William Rose,HR,40735.0,2020-12-10,Terminated
+1417,Samantha Griffin,HR,91644.0,2019-05-12,
+6843,Rhonda Wang,Finance,32540.0,2020-12-09,On Leave
+5367,Kristina Turner,,128176.0,2016-06-05,On Leave
+1070,Daniel Thompson,Finance,100702.0,2015-12-12,Terminated
+8448,Shawn Johnson,Finance,36826.0,,Resigned
+6183,Jessica Robinson,Engineering,75870.0,2016-10-06,Active
+1190,Julie Jackson,HR,59389.0,2020-09-05,Terminated
+2581,Teresa Rodriguez,Finance,115215.0,2019-07-30,Active
+3492,Lisa Fowler,HR,,2020-09-17,Resigned
+3686,Jill Garcia,Engineering,132397.0,2022-07-13,Active
+6527,Michelle Brown,,115426.0,2022-06-10,Terminated
+7362,Donna Salinas,Finance,35276.0,2018-10-09,Resigned
+6084,Ryan Frank,,128858.0,2017-02-09,Resigned
+7552,,Operations,34067.0,2023-04-04,Terminated
+9946,Jessica Powell,,62411.0,2021-08-29,Resigned
+6101,Rebecca Larson,Marketing,,2020-01-09,Active
+7915,Dale Reed,HR,,,On Leave
+8283,Brittney Rios,Finance,32671.0,2017-02-03,Terminated
+1767,,,,2016-10-11,
+2174,Amanda Jackson,Finance,49973.0,2020-04-07,Resigned
+8706,Aaron Rowe,Finance,61266.0,2014-12-04,On Leave
+3264,Erica Fernandez,HR,46544.0,2020-03-14,Active
+9084,Joe Robinson,Finance,92070.0,2017-10-03,Terminated
+7167,Mary Macias,HR,,2018-03-15,Resigned
+2715,Thomas Lyons,Marketing,44993.0,,Terminated
+6537,Steven Finley,Operations,103920.0,,Active
+2856,Maurice Pena,Finance,58569.0,,On Leave
+1565,Antonio Johnson,Finance,90952.0,2018-04-17,Active
+6210,,Finance,121680.0,2019-04-24,Active
+7081,Amy Cruz,Sales,63586.0,2022-01-31,Resigned
+9931,Andrew Barnes,,130518.0,2017-07-01,Terminated
+5842,,Engineering,78351.0,2019-04-20,Active
+4488,Jay Pierce,Operations,51992.0,2019-11-04,Active
+6117,Grace Flowers,Operations,109415.0,2018-02-02,On Leave
+4652,,Sales,109593.0,2016-07-29,On Leave
+8280,Jenna Melton,Engineering,128032.0,2017-10-26,
+7590,Timothy Kelly,Sales,124156.0,2019-06-25,Terminated
+8721,James Giles,Marketing,45012.0,2023-09-17,Resigned
+5616,Mathew Harris,Engineering,131946.0,2023-12-28,Terminated
+4962,Jasmine Harper,Operations,137387.0,,On Leave
+8081,Hunter Thompson,Operations,51465.0,2024-07-12,Terminated
+3439,,Sales,70768.0,,Active
+6508,Jacob Dunn,Marketing,44168.0,2016-04-10,Terminated
+9664,Jerry Maxwell,Sales,105849.0,2024-03-07,Terminated
+7303,Amanda Rodriguez,HR,33365.0,2015-09-14,Resigned
+1203,,HR,70888.0,2019-01-20,Active
+3363,Anne Robles,Marketing,105470.0,2019-03-27,Resigned
+6359,Megan White,Finance,118781.0,2020-11-20,On Leave
+8474,Daniel Edwards,Finance,149016.0,2018-04-18,Terminated
+4504,Lisa Rodgers,HR,79192.0,,Terminated
+8067,Nicole Richardson,HR,81990.0,2015-11-16,On Leave
+4653,,,123718.0,2024-05-03,Resigned
+6846,Laura Williams,Engineering,55995.0,2023-04-18,Active
+2495,Gina Davies,Finance,39961.0,2022-10-05,Resigned
+1403,Michael Moore,Sales,107607.0,2015-02-28,Resigned
+8466,Angela Herman,Engineering,120520.0,2015-05-05,Active
+8101,Tony Allen,Sales,138864.0,2016-09-27,Terminated
+4667,Stacey Gray,HR,112213.0,,Resigned
+7225,Christopher Silva,Engineering,61830.0,2014-10-25,On Leave
+2113,Michael Norman,Sales,43356.0,2022-04-11,Active
+8720,Tara Lee,Sales,121382.0,2019-05-01,Terminated
+6985,Brian Jackson,Engineering,131250.0,2015-05-24,Active
+4563,Ana Moody,Marketing,69529.0,2019-01-19,On Leave
+2921,,Finance,141449.0,2016-02-26,Active
+9713,Michael Garcia,Operations,119687.0,,Active
+3443,,Sales,108697.0,2016-04-06,
+7917,,Finance,135582.0,2023-12-21,On Leave
+8190,Larry Donovan,Operations,45866.0,2015-12-10,
+7504,Anthony Harvey,,134363.0,2016-01-17,On Leave
+8853,Monica Flynn,HR,104177.0,,Active
+2474,Martin Clark,Operations,132581.0,2022-06-30,
+9710,Jennifer Oneal,Finance,35383.0,2021-11-01,On Leave
+9970,,Sales,75508.0,2021-12-27,On Leave
+8202,Paul Weber,Operations,99827.0,,Resigned
+7288,Joseph Martin,HR,86148.0,2016-08-20,On Leave
+8355,Daniel Snyder,Engineering,116706.0,2015-10-10,Active
+8208,April Jones,Sales,78571.0,2019-04-29,Resigned
+7801,Lori Rodgers,HR,39038.0,2015-09-02,On Leave
+7255,Jerry Morris,HR,,,On Leave
+7613,Glenn Parrish,Operations,114874.0,2017-11-28,Resigned
+7797,Jill Morales,,74725.0,2014-09-08,On Leave
+3582,Deborah Daniel MD,Engineering,31658.0,2022-08-23,Active
+4446,Shane Buchanan,Sales,141355.0,2015-09-07,Active
+3971,Christopher Simmons,Sales,85057.0,2019-02-16,
+3322,Steven Palmer,Finance,137784.0,2020-12-28,Active
+6725,Carl White,Engineering,94251.0,2021-09-21,Resigned
+6308,Michael Kidd,Operations,,2017-08-24,On Leave
+7160,Kristy Fields,,86822.0,2020-09-12,Resigned
+7756,Mary Garcia,Engineering,77472.0,2016-04-19,
+9321,Christine Lopez,Operations,113307.0,2015-04-07,
+1378,Candice Rogers,Operations,146860.0,2022-12-20,Resigned
+2439,Katelyn Wallace,Sales,138620.0,2023-08-22,Active
+1897,Joshua Shields,Finance,,2021-09-06,On Leave
+7322,Miguel Harvey,Marketing,122708.0,2016-03-12,Terminated
+8361,Michael Johnson,,50052.0,2016-02-19,Active
+8309,Kelly Liu,,87080.0,,Active
+7726,Brandon Gregory,HR,53086.0,2020-05-21,Terminated
+5309,,Operations,126180.0,2021-08-23,Terminated
+7679,Alison Adams,Marketing,98386.0,2023-10-01,Resigned
+7918,Robert Hansen,Sales,115256.0,,Active
+2285,Matthew Jones,HR,65400.0,2018-05-04,Terminated
+1040,Danny Garcia,HR,110728.0,2023-09-29,On Leave
+9178,Shane Davis,Sales,135932.0,2020-07-21,Active
+5071,Megan Macdonald,Engineering,100539.0,,Resigned
+7400,Hannah Ross,Operations,131533.0,2016-03-25,Terminated
+4184,Jesse Dickson,Sales,93372.0,2024-07-12,Active
+1209,Erica Stewart,,90931.0,2017-04-18,Active
+3002,,Operations,87091.0,2024-06-14,Terminated
+7977,Tricia Welch,Marketing,138230.0,2019-06-03,Terminated
+3992,Robert Walker,Finance,125817.0,2017-06-27,Terminated
+1369,Meredith Coleman,Operations,107656.0,2019-04-13,
+8732,Kelly Sanchez,Marketing,65179.0,2020-04-19,Terminated
+1498,Timothy Stark,Finance,,2018-09-27,
+9611,Joshua Powell,HR,141635.0,2015-03-26,Active
+3440,Gabriela Flores,HR,62177.0,2017-02-01,Active
+5838,Christian Mitchell,HR,138885.0,2021-08-22,
+9179,Jade Chapman,,,2016-09-03,On Leave
+6379,Robin Shaw,Engineering,66559.0,,Active
+4710,,Finance,145557.0,2024-04-03,On Leave
+4069,Richard Montgomery,HR,89087.0,2016-11-18,Resigned
+9382,Karina Graham,Sales,61963.0,2016-01-20,Resigned
+4562,Randall Munoz,Finance,128366.0,2015-06-11,Terminated
+4320,Austin Smith,Finance,90910.0,2020-05-22,Resigned
+4424,Meagan Woods,Engineering,104691.0,2022-09-13,Terminated
+7365,Charlene Payne,Marketing,109997.0,2017-09-08,Terminated
+4316,Michael French,,117580.0,,Active
+4649,Mary Walker,HR,,2017-07-01,
+1645,Steven Bush,Sales,74092.0,2022-11-20,On Leave
+4540,Charlotte Parker,Sales,,2023-08-11,Terminated
+1069,Jessica Shea,,,2017-06-10,Terminated
+2354,David Pierce,Sales,141536.0,2019-06-04,On Leave
+5534,Mary Hernandez,Engineering,72600.0,2018-04-03,Terminated
+2110,,Operations,53834.0,2022-06-26,Resigned
+2748,Thomas Ellis,Engineering,93904.0,,Terminated
+8397,Erica Reed,Operations,57802.0,2018-07-22,Terminated
+5560,Dr. Sarah Harvey,HR,76507.0,2019-03-15,Terminated
+5345,Adam Dixon,Sales,134573.0,2019-04-03,Active
+3147,Susan Burke,Finance,63862.0,2015-01-09,Resigned
+9281,Edward Harvey,Marketing,74608.0,2021-11-13,Terminated
+4816,Bryan Cox,Finance,66655.0,2020-08-30,Resigned
+6198,Thomas Nunez,Operations,145385.0,2017-09-20,Resigned
+2774,Joseph Anderson,,108139.0,,Resigned
+2864,,Engineering,121905.0,2017-03-13,On Leave
+5255,Margaret Valencia,Engineering,145357.0,2016-09-03,Terminated
+1586,Brian Kim,Engineering,66211.0,2023-06-13,Active
+3772,Jonathan Haley,Marketing,102848.0,2024-01-11,Active
+9544,Sonya Watts,HR,31330.0,2016-04-01,Active
+4239,,Engineering,97715.0,2019-06-09,Active
+6501,,Operations,55042.0,2015-05-30,Terminated
+7210,Phillip Riley,Sales,41221.0,2023-01-04,Active
+5683,Carolyn Jordan,Marketing,61635.0,2019-02-19,
+4951,Terry Harrison,,124381.0,2022-10-10,On Leave
+2862,,Operations,83271.0,2019-03-19,Active
+3910,Douglas English,Engineering,94038.0,2022-09-23,Resigned
+1009,,Sales,102768.0,2023-03-24,Active
+3062,Christopher Perry,,129374.0,2023-12-01,Terminated
+3252,Amanda Goodwin,Operations,61499.0,2020-07-18,
